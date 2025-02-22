@@ -27,7 +27,7 @@ In cases where questions are **ambiguous, have multiple valid answers, or are de
 
 ## Results
 ### 1. Mafin Model Evolution
-![evolution](https://github.com/user-attachments/assets/f79a6759-6d46-4a25-86e2-deb55acf7f5a)
+![evolution](https://github.com/user-attachments/assets/a7f78677-64ac-4bc6-9311-6dfc8bc19033)
 
 
 This figure showcases the progression of Mafin models, highlighting the significant improvement in accuracy from **Mafin 1 to Mafin 2.5**. The latest iteration, **Mafin 2.5**, achieves a remarkable accuracy of **98.7%**, demonstrating major advancements in reasoning and retrieval capabilities.
