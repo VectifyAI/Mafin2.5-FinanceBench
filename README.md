@@ -27,26 +27,32 @@ In cases where questions are **ambiguous, have multiple valid answers, or are de
 
 ## Results
 ### 1. Mafin Model Evolution
-![evolution](https://github.com/user-attachments/assets/a7f78677-64ac-4bc6-9311-6dfc8bc19033)
+<!-- ![evolution](https://github.com/user-attachments/assets/a7f78677-64ac-4bc6-9311-6dfc8bc19033) -->
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7f78677-64ac-4bc6-9311-6dfc8bc19033" alt="evolution" width="80%">
+</p>
 
 This figure showcases the progression of Mafin models, highlighting the significant improvement in accuracy from **Mafin 1 to Mafin 2.5**. The latest iteration, **Mafin 2.5**, achieves a remarkable accuracy of **98.7%**, demonstrating major advancements in reasoning and retrieval capabilities.
 
 
 ### 2. Mafin2.5 Performance Across Base Models
-<img width="1020" alt="comparison" src="https://github.com/user-attachments/assets/f98957f4-dcdd-45fb-807e-198cb73b9452" />
+<!-- <img width="1020" alt="comparison" src="https://github.com/user-attachments/assets/f98957f4-dcdd-45fb-807e-198cb73b9452" /> -->
+
+<p align="center">
+<img width="80%" alt="414673269-f98957f4-dcdd-45fb-807e-198cb73b9452" src="https://github.com/user-attachments/assets/ca3e510b-b89f-4cff-aba8-24fb1a1beeb3" />
+</p>
 
 
 As a RAG 3.0 model, Mafin 2.5 is capable of leveraging different base models while maintaining **consistent high performance (98.7%)**. The above figure illustrates its effectiveness across **ChatGPT 4o** and **Deepseek v3**, indicating that its strong performance is **independent of the underlying LLM**. Notably, **Deepseek v3 is a privately deployable model**, offering an alternative for organizations requiring on-premise or self-hosted AI solutions.
 
 
 ### 3. Comparison with Market Players
+<!-- ![sandian8](https://github.com/user-attachments/assets/469e2df8-64b5-4a15-9427-be83719dac2d) -->
 
-![sandian8](https://github.com/user-attachments/assets/469e2df8-64b5-4a15-9427-be83719dac2d)
-
-
-
-
+<p align="center">
+<img width="80%" alt="414810759-469e2df8-64b5-4a15-9427-be83719dac2d" src="https://github.com/user-attachments/assets/5e54b7ba-405a-46cd-b9dd-7de11642c308" />
+</p>
 
 <div align="center">
 
