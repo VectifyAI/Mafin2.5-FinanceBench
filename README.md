@@ -5,9 +5,8 @@ This repository contains the results of our finance benchmark evaluations using 
 
 ### Mafin2.5 Introduction
 
-**Mafin2.5** is our latest **financial AI model**, built on **Vectify’s RAG 3.0 framework**, which enhances performance through **reinforcement learning (RL) with Monte Carlo Tree Search (MCTS)**. This approach improves **multi-step reasoning, retrieval accuracy, and financial task automation**.  
+**Mafin2.5** is our latest RAG model on Financial reports, built on **PageIndex** -- a vectorless, reasoning-based RAG framework. See [this page](http://pageindex.ai/) for more details.
 
-**Mafin1**, our earlier model, focused on **fine-tuning embedding models** for financial AI. For a detailed explanation, refer to our technical report:  📄 **[Mafin: Enhancing Black-Box Embeddings with Model-Augmented Fine-Tuning](https://arxiv.org/abs/2402.12177)**.  This foundational work laid the groundwork for **embedding optimization and improved knowledge retrieval** in financial applications.  
 
 
 ### Benchmark Overview
